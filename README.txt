@@ -3,11 +3,6 @@ rFactor2 RaceStandings plugin
 
 This version made by knackko "CedricH" is based on Cosimo devs but instead of exporting standings in one csv file, it exports standings in 2 files in order to admins to recreate the grid and lap gap after a server crash during an endurance round for example.
 
-Author:      Cosimo <cosimo@streppone.it>
-Last update: 2016/06/04
-URL:         http://isiforums.net/f/showthread.php/29132-Race-standings-dedicated-server-plugin
-Status:      Works!
-
 == What is this? ==
 
 RaceStandings is an rFactor 2 plugin.
